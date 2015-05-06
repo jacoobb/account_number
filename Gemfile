@@ -33,7 +33,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'therubyracer', '~> 0.12.2'
 gem 'less-rails', '~> 2.7.0'
 gem 'twitter-bootstrap-rails', '~> 3.2.0'
-gem 'bank_account_number_validator', '~> 0.0.2'
+gem 'bank_account_number_validator', '~> 0.0.3'
 gem 'simple_form', '~> 3.1.0'
 
 group :development, :test do
